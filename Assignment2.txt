@@ -1,0 +1,58 @@
+1)The lexical structure of a programming language is the set of basic rules that governs how you write programs in that language.Rules like what variable names look like, the delimiter characters for comments, and how one program statement is separated from the next. It is the lowest-level syntax of a language.
+
+
+2)In Javascript, the string literals and identifiers can also be represented or expressed through a unicode. Unicode have a  general syntax as '\uXXX' where X denotes four hexadecimal digits. For example l is denoted as '\u006C'
+
+
+3)break
+do
+instanceof
+typeof
+case
+else
+new
+var
+catch
+finally
+return
+void
+continue
+for
+switch
+while
+debugger
+function
+this
+with
+default
+if
+throw
+delete
+in
+try
+class
+enum
+extends
+super
+const
+export
+import
+implements
+let
+private
+public
+interface
+package
+protected
+static
+yield
+
+
+4)Assignment Operators are used for assigning values to the variables in the program. There are two types of Assignment operators used. The first one being the Simple Assignment Operator and the other one being Shorthand Operators or Compound Assignment Operators. 
+ for example int num = 10; console.log(num+=10);
+ here += is a shorthand operator.
+
+
+ 5)The purpose of "use strict" is to indicate that the code should be executed in "strict mode". Strict mode is declared by adding "use strict"; to the beginning of a script or a function.It is a the restricted mode and it is used to avoid the sloppy mode.
+  for example "use strict"; 
+                x = 3.14;// error occurs since the variable x is not declared atleast once.
