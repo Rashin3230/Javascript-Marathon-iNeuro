@@ -40,5 +40,5 @@
 
 
 
-5)JavaScript engines are V8(google),SpiderMonkey(firefox),JavaScriptCore(Safari),Chakra(Explorer)
+5)JavaScript engines are V8(google),SpiderMonkey(Mozilla Firefox),JavaScriptCore(Safari),Chakra(Explorer)
 
