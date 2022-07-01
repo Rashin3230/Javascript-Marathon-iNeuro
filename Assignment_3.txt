@@ -23,7 +23,7 @@
                 console.log(myString.substring(2,9));// it prints 'Maratho' which is a substring of myString
 
 
-3)padStart():- This method pads the current string with another string  until the resulting string reaches the given length. It pads only on the front of that string.
+3) padStart():- This method pads the current string with another string  until the resulting string reaches the given length. It pads only on the front of that string.
              eg: let id = "092384950";
                  console.log(id.padStart(10,'*'));
                  //suppose id is a string which should contain 10 digits. But the input contains only 9 digits. So by id.padStart(10,'*) which fills '*' on the front of that id to acquire the size 10.
@@ -35,7 +35,7 @@
 
 
 
-4)A global object is an object that always exists in the global scope. In JavaScript, there's always a global object defined. In a web browser, when scripts create global variables defined with the var keyword, they're created as members of the global object. The global object's interface depends on the execution context in which the script is running.
+4) A global object is an object that always exists in the global scope. In JavaScript, there's always a global object defined. In a web browser, when scripts create global variables defined with the var keyword, they're created as members of the global object. The global object's interface depends on the execution context in which the script is running.
   The Javascript global scope is the context where everything in a Javascript program executes by default. This scope includes all variables, objects, and references that are not contained within a customized scope defined by a programmer. Global scope is the entire Javascript execution environment.
 
 
