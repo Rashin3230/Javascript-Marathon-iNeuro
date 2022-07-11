@@ -28,7 +28,7 @@
                  console.log(id.padStart(10,'*'));
                  //suppose id is a string which should contain 10 digits. But the input contains only 9 digits. So by id.padStart(10,'*) which fills '*'                  on the front of that id to acquire the size 10.
 
-  padEnd():-   This method pads the current string with a given string  so that the resulting string reaches a given length. The padding is applied from                the end of the current string.
+  padEnd():- This method pads the current string with a given string  so that the resulting string reaches a given length. The padding is applied from                the end of the current string.
              eg: let str = 'coded'
               console.log(str.padEnd(10,'#'));//suppose the string should contain 10 letters. But the may not be 10 letters. So that the padEnd() method               fills that string to 10 letters by adding '#' to the remaining spaces. ie,coded##### is the required output.
 
